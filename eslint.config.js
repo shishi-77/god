@@ -11,7 +11,8 @@ export default [
   ...pluginVue.configs["flat/essential"],
   {
     rules: {
-      'semi': ['error', 'never']
+      'semi': ['error', 'never'],
+      'comma-dangle': ['error', 'never']
     }
   }
 ]
