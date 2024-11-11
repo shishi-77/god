@@ -1,14 +1,54 @@
 {
-  "quotes": {
-    "Open your heart": "Mở lòng đón nhận",
-    "What you expected will disappoint you": "Thứ bạn kỳ vọng sẽ khiến bạn thất vọng",
-    "Use your imagination": "Tận dụng trí tưởng tượng",
-    "Not what you think": "Chuyện không như bạn nghĩ",
-    "Out of control": "Vượt tầm kiểm soát của bạn",
-    "Sometimes you need to be more ambitious": "Đôi khi cần tham vọng hơn",
-    "Everything is going well": "Mọi thứ tiến triển tốt",
-    "Seek the truth": "Tìm kiếm sự thật",
-    "Just bet on it": "Cứ đặt cược vào nó",
-    "Your weakness will be revealed": "Điểm yếu của bạn sẽ bộc lộ"
-  }
+  "decisions": [
+    {
+      "decision1": {
+        "text": "Mở lòng đón nhận"
+      }
+    },
+    {
+      "decision2": {
+        "text": "Thứ bạn kỳ vọng sẽ khiến bạn thất vọng"
+      }
+    },
+    {
+      "decision3": {
+        "text": "Tận dụng trí tưởng tượng"
+      }
+    },
+    {
+      "decision4": {
+        "text": "Chuyện không như bạn nghĩ"
+      }
+    },
+    {
+      "decision5": {
+        "text": "Vượt tầm kiểm soát của bạn"
+      }
+    },
+    {
+      "decision6": {
+        "text": "Đôi khi bạn cần phải tham vọng hơn"
+      }
+    },
+    {
+      "decision7": {
+        "text": "Mọi thứ tiến triển tốt"
+      }
+    },
+    {
+      "decision8": {
+        "text": "Tìm kiếm sự thật"
+      }
+    },
+    {
+      "decision9": {
+        "text": "Cứ đặt cược vào nó"
+      }
+    },
+    {
+      "decision10": {
+        "text": "Điểm yếu của bạn sẽ được phơi bày"
+      }
+    }
+  ]
 }

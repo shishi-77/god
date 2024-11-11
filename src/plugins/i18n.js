@@ -1,8 +1,8 @@
 import { createI18n } from 'vue-i18n'
 
 // Import translation files
-import en from './locales/en.json'
-import vi from './locales/vi.json'
+import en from '@/locales/en.json'
+import vi from '@/locales/vi.json'
 
 const messages = {
   en,
