@@ -1,6 +1,6 @@
-import globals from "globals";
-import pluginJs from "@eslint/js";
-import pluginVue from "eslint-plugin-vue";
+import globals from "globals"
+import pluginJs from "@eslint/js"
+import pluginVue from "eslint-plugin-vue"
 
 
 /** @type {import('eslint').Linter.Config[]} */
@@ -9,4 +9,9 @@ export default [
   {languageOptions: { globals: globals.browser }},
   pluginJs.configs.recommended,
   ...pluginVue.configs["flat/essential"],
-];
+  {
+    rules: {
+      'semi': ['error', 'never']
+    }
+  }
+]
